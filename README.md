@@ -32,11 +32,11 @@ At this point we are ready to use an Webex Alert Room
 
 In this current use case we are not going to create a space where the Webex Bot and every security operator will join. 
 
-But, as the Webex Alert Room , we are going to use the webex conversation room we are going ( as a webex user ) to use to interact with the Bot exactly as it is another webex user.
+But, as the Webex Alert Room , we are going to use the webex conversation room we are going ( as a webex user ) to use to interact with the Bot exactly as with anyother webex user.
 
-Every Security operators will have to do the same. The bot logic we are going to associate to the bot will manage this multi users conversations. Every message sent by the bot will be received by every operator the bot is in conversation with.
+Every other Security Operators will have to do the same. The bot logic we are going to associate to the bot will manage this multi users conversations. Every message sent by the bot will be received by every operator the bot is in conversation with.
 
-And every operator will be able to ask the bot some actions or will be able to answser to Bot Alerts.
+And every operator will be able to send action requests directly to the bot. Or will be able to answer to Bot Alerts.
 
 This is a very easy principle. Every operators just have to contact the bot to receive its alerts. 
 

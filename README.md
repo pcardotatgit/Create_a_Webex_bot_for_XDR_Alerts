@@ -38,7 +38,7 @@ Every other Security Operators will have to do the same. The bot logic we are go
 
 And every operator will be able to send action requests directly to the bot. Or will be able to answer to Bot Alerts.
 
-This is a very easy principle. Every operators just have to contact the bot to receive its alerts. 
+This is a very easy principle. Every SOC operators just have to contact the bot to receive its alerts. 
 
 So the instruction for creating the alert room is to contact the BOT thanks to the mail it was assign during it's creation. 
 
